@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">傲娇小女生</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strPoint">小圆点</string>
+    <string name="strWelLogo">欢迎Logo</string>
+    <string name="strWelcomeToMain">欢迎来到主页</string>
+    <string name="myAbstract">这是我做的第一个APP游戏，为了我的偶像，上刀山，下火海，俺也愿意！哈哈哈</string>
+
+    <string name="NewGame">新游戏</string>
+    <string name="Scores">分数集</string>
+    <string name="ExitGame">退出游戏</string>
+</resources>
